@@ -13,6 +13,9 @@ In your own words discuss Binary and its impact:
 
 In your own words discuss Algorithms as was introduced:
 
-    Any Algorithm is a set of steps or instructions to arrive at a solution. In the example of making a PB + J sandwich, 
-    David Malan demonstrated that the steps need to be very specific and exact as computers have no sense of 
-    interpretation. They do not make assumptions and only do exactly as commanded or programmed.
+    Any Algorithm is a set of steps or instructions to arrive at a solution. In the example of making a 
+    PB + J sandwich, David Malan demonstrated that the steps need to be very specific and exact as computers
+    have no sense of interpretation. They do not make assumptions and only do exactly as commanded or 
+    programmed. An Algorithm can check to see if a certain condition exists or is "true" and then perform 
+    a specific action.
+    
