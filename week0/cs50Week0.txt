@@ -1,8 +1,13 @@
 
 In your own words discuss Binary and its impact:
 
-
-
+    Binary is a system of encoding and recording values, using only 1's and 0's. Stored in a bit,
+    the smallest unit of data available, and increase by power of two. So the first bit represents one,
+    the next bit to the left is 2, then 4, then 8, then 16, then 32 and so on. Ones and zeros can 
+    represent "on" or "off" respectively. Or they can be "true" or "false" and other values.
+    Using this simple system, we can use various combintations of bits and values to represent numbers,
+    letters, characters, colors and so on.
+    All code written in any computer language is compiled and translated to be an executable file in Binary.
 
 
 
